@@ -1,0 +1,9 @@
+{
+  "self-port": 3333,
+  "encrypt": "aes",
+  "max-num":50,
+  "server-port": 25555,
+  "server-ip": "192.168.1.5",
+  "salt": "MIICYAIBAAKBgQCVKUIKxkl0hgRWS3+Z",
+  "nonce": "minerhappy"
+}

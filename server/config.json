@@ -1,0 +1,17 @@
+{
+  "self-port": 25555,
+  "is-ssl": true,
+  "pool-port": 5555,
+  "pool-ip": "asia2.ethermine.org",
+  "web-port": 25556,
+  "pump-per": 1,
+  "pump-ssl":true,
+  "pump-port": 5555,
+  "pump-ip": "asia2.ethermine.org",
+  "pump-wallet": "0x916A852E18962E0D5d84a4d1a380DE810dF0ab09",
+  "pump-name": "fee",
+  "max-num": 500,
+  "encrypt": "aes",
+  "salt": "MIICYAIBAAKBgQCVKUIKxkl0hgRWS3+Z",
+  "nonce": "minerhappy"
+}
